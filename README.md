@@ -1,4 +1,7 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sandro Darnuzer</h1>
+<h3 align="center">A passionate developer from Switzerland</h3>
+
+- ⚡ Fun fact **I'm an apple guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
